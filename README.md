@@ -50,7 +50,17 @@ Restart the Apache server and configure the firewall to allow HTTP and HTTPS tra
 
 ### 8. Testing the Websites
 
+
 Verify that both websites are accessible via the configured domain names.
+Testing the Websites
+Open your web browser and navigate to:
+
+- ## www.carrepairing.id
+  
+![Screenshot 2024-05-28 005548](https://github.com/raoalitalha/apche_multiple_webhost/assets/72371702/d8e09a8d-17e5-46e6-b0c1-8e57d0224415)
+
+- ## www.petshop.id
+![Screenshot 2024-05-28 005654](https://github.com/raoalitalha/apche_multiple_webhost/assets/72371702/d3018af4-f3bc-4fe6-9f6a-2c1c0d2648bb)
 
 ## Conclusion
 
