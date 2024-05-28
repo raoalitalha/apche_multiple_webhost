@@ -61,7 +61,5 @@ This project demonstrates how to efficiently host multiple websites on a single 
 In the future, I plan to:
 
 Deploy the Websites on an Nginx Server in Linux: Transition from Apache to Nginx for better performance and resource management.
-Automate Deployment: Use tools like Ansible or Puppet to automate the deployment process.
-Implement Continuous Integration/Continuous Deployment (CI/CD): Integrate with CI/CD pipelines to streamline updates and maintenance.
 
 
